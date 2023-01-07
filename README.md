@@ -16,6 +16,7 @@ a simple mnist classifier build using python and pytorch that allows the user to
 
 # Info
 I only tested the classifier with 14 epochs and my NVIDIA RTX 2080Ti using CUDA. It should work fine on CPU though. 
+It might make some mistakes (eg. sometimes predict a 7 instead of a 1)
 
 # Setup 
 1. Download the code and install the dependencies using pip or conda.
