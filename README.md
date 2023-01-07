@@ -1,6 +1,9 @@
 # mnist_classifier
 a simple mnist classifier build using python and pytorch that allows the user to draw a number on a canvas and pass it through a Pytorch MNIST Classifier
 
+![Alt-Text](https://i.imgur.com/vpkxD7J.png)
+
+
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
