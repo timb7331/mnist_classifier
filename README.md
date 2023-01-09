@@ -8,7 +8,7 @@ a simple mnist classifier build using python and pytorch that allows the user to
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 
-# Requirments
+# Requirements
 - Python
 - Pytorch
 - Pillow
